@@ -15,9 +15,9 @@
 *.log
 
 # Package files
-*.jar
-*.war
-*.ear
+# *.jar
+# *.war
+# *.ear
 
 # Others
 *.bak
